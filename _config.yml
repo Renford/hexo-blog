@@ -11,7 +11,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://renford.github.io       # Note: don't forget to modify the CNAME file to your url
+url: http://chaofree.club      # Note: don't forget to modify the CNAME file to your url
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -30,9 +30,9 @@ signature-img: img/signature/BeanTechSign-white.png
 
 # SNS settings
 # RSS: false
-weibo_username:     Demonbaneen
+weibo_username:     5545585290
 # zhihu_username:     Demonbane
-github_username:    YenYuHsuan
+github_username:    Renford
 # twitter_username:   Demonbane_x
 # facebook_username:  YenYuHsuan
 # linkedin_username:  yu-hsuan-yen
@@ -63,12 +63,12 @@ sidebar: true                       # whether or not using Sidebar.
 sidebar-about-description: "写写代码，聊聊技术"
 sidebar-avatar: img/porfile.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
-- featured-tags
+# - featured-tags
 - short-about
 - recent-posts
 - friends-blog
-- archive
-- category
+# - archive
+# - category
 
 # widget behavior
 ## Archive
@@ -77,7 +77,7 @@ show_count: true
 
 
 ## Featured Tags
-featured-tags: true                     # whether or not using Feature-Tags
+featured-tags: false                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
 
@@ -110,7 +110,7 @@ tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
-i18n_dir: :lang
+i18n_dir: :language
 skip_render:
 
 # Writing

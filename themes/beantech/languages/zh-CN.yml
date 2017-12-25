@@ -1,0 +1,20 @@
+navi:
+  home: 主页
+  archives: 归档
+  tags: 标签
+  about: 关于
+
+sidebar:
+  featured-tags: 特色标签
+  about: 关于
+  recent-posts: 最新发帖
+  friends: 友情链接
+  archive: 归档
+  category: 分类
+
+post:
+  prev: 上一页
+  next: 下一页
+  toc: 目录
+  featured-tags: 特色标签
+  friends: 友情链接

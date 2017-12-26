@@ -1,15 +1,12 @@
----
 title: Markdown常用语法
 subtitle: Markdown常用语法
-date: '2016-09-09'
 catalog: true
-header-img: "markdown.jpg"
-tags: 
-- 杂记 
-- markdown
-
+header-img: markdown.jpg
+tags:
+  - 杂记
+  - markdown
+date: 2016-09-09 00:00:00
 ---
-
 ## 1、标题
 Markdown 语法：
 
@@ -200,11 +197,9 @@ Markdown 语法：
 Markdown 语法：
 
 ```
-{:toc}
 [toc]
 ```
 
 效果如下：
 
-{:toc}
 [toc]

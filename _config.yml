@@ -179,3 +179,8 @@ deploy:
   type: git
   repository: https://github.com/Renford/renford.github.io.git
   branch: master
+  
+admin:
+  username: renford
+  password_hash: $2a$10$YU5LFksvR1pdzMWriwHerOLPeV63CKCae9.Mnw2.Xs9lXJEjiWCP2
+  secret: QR)#T!.H.hLi6:v

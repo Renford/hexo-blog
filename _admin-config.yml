@@ -1,0 +1,5 @@
+# hexo-admin authentification
+admin:
+  username: renford
+  password_hash: $2a$10$2UmQDgSpOnOht4xwXxef7e3DBLOEX2kWSZWPrJ2WQsKitqeCdlzbu
+  secret: 123456
